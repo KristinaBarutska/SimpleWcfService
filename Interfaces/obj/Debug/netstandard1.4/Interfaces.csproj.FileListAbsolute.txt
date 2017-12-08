@@ -1,0 +1,7 @@
+C:\Users\k.barutska\documents\visual studio 2017\Projects\SimpleService\Interfaces\bin\Debug\netstandard1.4\Interfaces.deps.json
+C:\Users\k.barutska\documents\visual studio 2017\Projects\SimpleService\Interfaces\bin\Debug\netstandard1.4\Interfaces.dll
+C:\Users\k.barutska\documents\visual studio 2017\Projects\SimpleService\Interfaces\bin\Debug\netstandard1.4\Interfaces.pdb
+C:\Users\k.barutska\documents\visual studio 2017\Projects\SimpleService\Interfaces\obj\Debug\netstandard1.4\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\k.barutska\documents\visual studio 2017\Projects\SimpleService\Interfaces\obj\Debug\netstandard1.4\Interfaces.AssemblyInfo.cs
+C:\Users\k.barutska\documents\visual studio 2017\Projects\SimpleService\Interfaces\obj\Debug\netstandard1.4\Interfaces.dll
+C:\Users\k.barutska\documents\visual studio 2017\Projects\SimpleService\Interfaces\obj\Debug\netstandard1.4\Interfaces.pdb

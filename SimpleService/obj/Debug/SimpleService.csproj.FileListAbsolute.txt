@@ -1,0 +1,8 @@
+c:\users\k.barutska\documents\visual studio 2017\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.dll.config
+c:\users\k.barutska\documents\visual studio 2017\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.csprojResolveAssemblyReference.cache
+c:\users\k.barutska\documents\visual studio 2017\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.pdb
+C:\Users\k.barutska\documents\visual studio 2017\Projects\SimpleService\SimpleService\bin\Debug\Models.dll
+C:\Users\k.barutska\documents\visual studio 2017\Projects\SimpleService\SimpleService\bin\Debug\Models.pdb
