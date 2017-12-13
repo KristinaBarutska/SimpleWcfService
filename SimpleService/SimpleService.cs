@@ -12,24 +12,20 @@ namespace SimpleService
     public class SimpleService : ISimpleService
     {
         
-        public string GetUserName()
-        {
-            Console.WriteLine("Is authenticated: " + ServiceSecurityContext.Current.PrimaryIdentity.IsAuthenticated.ToString());
-            Console.WriteLine("Authentication type: " + ServiceSecurityContext.Current.PrimaryIdentity.AuthenticationType);
-            Console.WriteLine("Name: " + ServiceSecurityContext.Current.PrimaryIdentity.Name);
-
-            return "Authenticated " + ServiceSecurityContext.Current.PrimaryIdentity.Name;
-        }
-
-        public BusinessResult GetWindowsUserName()
+        public BusinessResult CheckUserName()
         {
             var businessResult = new BusinessResult();
-             businessResult.IsOK = true;
-             businessResult.Result= ServiceSecurityContext.Current.PrimaryIdentity.Name;
-             //businessResult.Messages[0] = "Is authenticated: " + ServiceSecurityContext.Current.PrimaryIdentity.IsAuthenticated.ToString();
-             //businessResult.Messages[1] = "Authentication type: " + ServiceSecurityContext.Current.PrimaryIdentity.AuthenticationType;
-             // businessResult.Messages[2] = "Name: " + ServiceSecurityContext.Current.PrimaryIdentity.Name;
+            businessResult.IsOK = true;
+            businessResult.Result = "Kris";
+            return businessResult;
+        }
+       
 
+        public BusinessResult GetMessage()
+        {
+            var businessResult = new BusinessResult();
+            businessResult.IsOK = true;
+            businessResult.Result = "Last message- test";            
             return businessResult;
         }
     }
